@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom";
+import { Footer } from "../components/Footer";
+
 export function Home() {
     return (
         <>
@@ -16,9 +19,11 @@ export function Home() {
                         </p><br />
 
                         <div className="flex gap-4">
+                            <Link to={"/food"}>
                             <button className="px-6 py-3 bg-amber-500 text-white h-10 w-50 rounded-xl shadow-md hover:bg-amber-600 transition">
                                 Taomlarni ko‘rish
                             </button>
+                            </Link>
 
                             <button className="px-6 py-3 border border-amber-500 h-10 w-50 rounded-xl text-amber-600  hover:bg-amber-100 transition">
                                 Batafsil
@@ -39,6 +44,7 @@ export function Home() {
 
                 </div>
             </section>
+            <Footer/>
         </>
     )
 }
