@@ -1,0 +1,110 @@
+{
+    "header": {
+        "logo_part1": "SamDu",
+        "logo_part2": "Kitchen",
+        "nav": {
+            "home": "Home",
+            "food": "Foods",
+            "team": "Team"
+        },
+        "languages": {
+            "en": "EN",
+            "ru": "RU",
+            "uz": "UZ"
+        }
+    },
+    "home": {
+        "title": "SamDu Kitchen 🍽️",
+        "description": "The Samarkand State University cafeteria is a comfortable and affordable dining place for students and university staff. Every day, various hot dishes, traditional and modern meals are prepared. The menu includes pilaf, soups, manti, samsa, as well as salads, drinks, and desserts.",
+        "btn_food": "View Foods",
+        "btn_more": "Read More"
+    },
+    "footer": {
+        "title": "SamDu Kitchen",
+        "description": "Our cafeteria is the place of the most delicious and high-quality national dishes. Every meal is prepared with love.",
+        "pages_title": "Pages",
+        "pages": {
+            "home": "Home",
+            "menu": "Menu",
+            "team": "Team",
+            "contact": "Contact"
+        },
+        "contact_title": "Contact",
+        "address": "📍 Samarkand, Uzbekistan",
+        "phone": "📞 +998 90 123 45 67",
+        "email": "✉️ info@oshxona.uz",
+        "rights": "All rights reserved"
+    },
+    "food": {
+        "title": "National Foods",
+        "items": [
+            {
+                "title": "Pilaf",
+                "img": "/images/osh.jpg",
+                "desc": "The pride of Uzbek national cuisine. Prepared with rice, carrots, and meat.",
+                "prices": [
+                    "Small — 18,000 UZS",
+                    "Medium — 25,000 UZS",
+                    "Large — 32,000 UZS",
+                    "Special — 40,000 UZS"
+                ]
+            },
+            {
+                "title": "Manti",
+                "img": "/images/manti.jpg",
+                "desc": "Steamed soft and juicy traditional dish.",
+                "prices": [
+                    "5 pcs — 20,000",
+                    "10 pcs — 35,000",
+                    "15 pcs — 50,000"
+                ]
+            },
+            {
+                "title": "Samsa",
+                "img": "/images/somsa.jpg",
+                "desc": "Crispy tandoor pastry filled with meat or potatoes.",
+                "prices": [
+                    "Regular — 8,000",
+                    "Meat — 10,000",
+                    "Large — 15,000"
+                ]
+            },
+            {
+                "title": "Soup",
+                "img": "/images/shorva1.jpg",
+                "desc": "Hot, healthy and nutritious meat broth.",
+                "prices": [
+                    "Regular — 18,000",
+                    "Meat — 22,000",
+                    "Special — 28,000"
+                ]
+            }
+        ]
+    },
+    "team": {
+        "title": "Our Kitchen Team",
+        "subtitle": "Every dish is prepared by professional chefs",
+        "chefs": [
+            {
+                "name": "Master Karim",
+                "role": "Head Chef (Pilaf Master)",
+                "desc": "20 years of experience, master of traditional Uzbek pilaf."
+            },
+            {
+                "name": "Madina",
+                "role": "Manti Chef",
+                "desc": "Prepares the softest and juiciest manti."
+            },
+            {
+                "name": "Rustam",
+                "role": "Samsa Chef",
+                "desc": "Owner of a special tandoor samsa recipe."
+            },
+            {
+                "name": "Zarina",
+                "role": "Soup Chef",
+                "desc": "Prepares various healthy and delicious soups."
+            }
+        ]
+    }
+}

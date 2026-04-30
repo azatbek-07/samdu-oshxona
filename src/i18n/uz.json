@@ -1,0 +1,110 @@
+{
+    "header": {
+        "logo_part1": "SamDu",
+        "logo_part2": "Oshxonasi",
+        "nav": {
+            "home": "Asosiy",
+            "food": "Taomlar",
+            "team": "Jamoa"
+        },
+        "languages": {
+            "en": "EN",
+            "ru": "RU",
+            "uz": "UZ"
+        }
+    },
+    "home": {
+        "title": "SamDu Oshxonasi 🍽️",
+        "description": "Samarqand Davlat Universiteti oshxonasi talabalar va universitet xodimlari uchun mo‘ljallangan qulay va arzon ovqatlanish maskanidir. Bu yerda har kuni turli xil issiq taomlar, milliy va zamonaviy ovqatlar tayyorlanadi. Oshxona menyusida osh, sho‘rva, manti, somsa kabi an’anaviy taomlar bilan bir qatorda salatlar, ichimliklar va shirinliklar ham mavjud.",
+        "btn_food": "Taomlarni ko‘rish",
+        "btn_more": "Batafsil"
+    },
+    "footer": {
+        "title": "SamDu Oshxonasi",
+        "description": "Bizning oshxona — milliy taomlarning eng mazali va sifatli manzili. Har bir taom sevgi bilan tayyorlanadi.",
+        "pages_title": "Sahifalar",
+        "pages": {
+            "home": "Bosh sahifa",
+            "menu": "Menyu",
+            "team": "Jamoa",
+            "contact": "Aloqa"
+        },
+        "contact_title": "Aloqa",
+        "address": "📍 Samarqand, Uzbekistan",
+        "phone": "📞 +998 90 123 45 67",
+        "email": "✉️ info@oshxona.uz",
+        "rights": "Barcha huquqlar himoyalangan"
+    },
+    "food": {
+        "title": "Milliy Taomlar",
+        "items": [
+            {
+                "title": "Osh",
+                "img": "/images/osh.jpg",
+                "desc": "O‘zbek milliy taomlarining faxri. Guruch, sabzi va go‘sht bilan tayyorlanadi.",
+                "prices": [
+                    "Kichik — 18 000 so‘m",
+                    "O‘rta — 25 000 so‘m",
+                    "Katta — 32 000 so‘m",
+                    "Maxsus — 40 000 so‘m"
+                ]
+            },
+            {
+                "title": "Manti",
+                "img": "/images/manti.jpg",
+                "desc": "Bug‘da pishiriladigan yumshoq va shirali taom.",
+                "prices": [
+                    "5 dona — 20 000",
+                    "10 dona — 35 000",
+                    "15 dona — 50 000"
+                ]
+            },
+            {
+                "title": "Somsa",
+                "img": "/images/somsa.jpg",
+                "desc": "Qarsildoq tandir somsa, ichida go‘sht yoki kartoshka.",
+                "prices": [
+                    "Oddiy — 8 000",
+                    "Go‘shtli — 10 000",
+                    "Katta — 15 000"
+                ]
+            },
+            {
+                "title": "Shorva",
+                "img": "/images/shorva1.jpg",
+                "desc": "Issiq, foydali va to‘yimli go‘shtli bulon.",
+                "prices": [
+                    "Oddiy — 18 000",
+                    "Go‘shtli — 22 000",
+                    "Maxsus — 28 000"
+                ]
+            }
+        ]
+    },
+    "team": {
+        "title": "Bizning Oshxona Jamoamiz",
+        "subtitle": "Har bir taom ortida professional oshpazlar mehnati turadi",
+        "chefs": [
+            {
+                "name": "Usta Karim",
+                "role": "Bosh oshpaz (Osh ustasi)",
+                "desc": "20 yillik tajribaga ega, an’anaviy o‘zbek oshining ustasi."
+            },
+            {
+                "name": "Madina opa",
+                "role": "Manti ustasi",
+                "desc": "Eng yumshoq va shirali mantilar tayyorlaydi."
+            },
+            {
+                "name": "Rustam aka",
+                "role": "Somsa pishiruvchi",
+                "desc": "Tandir somsaning maxsus retsepti egasi."
+            },
+            {
+                "name": "Zarina",
+                "role": "Sho‘rva oshpazi",
+                "desc": "Har xil foydali va mazali sho‘rvalar tayyorlaydi."
+            }
+        ]
+    }
+}
